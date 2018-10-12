@@ -1,0 +1,9 @@
+size(500,500);
+fill(255,0,0,200);
+noStroke();
+ellipse(250,250,100,100);
+fill(255,255,0,200);
+ellipse(300,250,100,100);
+textSize(32);
+fill(0);
+text("mastercard",190,330);
